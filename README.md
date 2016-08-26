@@ -1,3 +1,4 @@
+This is my YADR fork. Trimming down the fat to only what I really need.
      _     _           _
     | |   | |         | |
     | |___| |_____  __| | ____
@@ -200,7 +201,7 @@ of plugins above to learn more.
  * `gK` - Opens the documentation for the word under the cursor.
  * Spacebar - Sneak - type two characters to move there in a line. Kind of like vim's `f` but more accurate.
  * `:Gsearch foo` - global search, then do your normal `%s/search/replace/g` and follow up with `:Greplace` to replace across all files. When done use `:wall` to write all the files.
- 
+
 
 #### File Navigation
 
